@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I recently did my bachelor thesis in bioinformatics where I used different machine learning approaches to analyse a longitudinal dataset of severe COVID-19 patients.\n
-In this project I used Python and R.
+I recently did my bachelor thesis in bioinformatics where I used different machine learning approaches to analyse a longitudinal dataset of severe COVID-19 patients.
+
 
 🌱 I'm currently using the book "Hands on Machine Learning with SciKit-Learn and TensorFlow" to expand my technical skills in Machine Learning with Python. 
 

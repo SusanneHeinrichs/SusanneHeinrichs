@@ -4,7 +4,7 @@
 I recently completed my bachelor thesis in bioinformatics where I used different machine learning approaches to analyse a longitudinal dataset of severe COVID-19 patients.
 
 
-🌱 I'm currently using the book "Hands on Machine Learning with SciKit-Learn and TensorFlow" to expand my technical skills in Machine Learning with Python. 
+🌱 I'm currently using the book ["Hands on Machine Learning with SciKit-Learn and TensorFlow"](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) to expand my technical skills in Machine Learning with Python. 
 
 
 <!--

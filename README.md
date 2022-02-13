@@ -1,6 +1,7 @@
 ### Hi there 👋
+#### Looking for a job in Data Science
 
-I recently did my bachelor thesis in bioinformatics where I used different machine learning approaches to analyse a longitudinal dataset of severe COVID-19 patients.
+I recently completed my bachelor thesis in bioinformatics where I used different machine learning approaches to analyse a longitudinal dataset of severe COVID-19 patients.
 
 
 🌱 I'm currently using the book "Hands on Machine Learning with SciKit-Learn and TensorFlow" to expand my technical skills in Machine Learning with Python. 

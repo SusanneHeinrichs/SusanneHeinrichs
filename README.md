@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### Looking for a job in Data Science
+<a href="https://www.linkedin.com/in/susanneheinrichs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 I recently completed my bachelor thesis in bioinformatics where I used different machine learning approaches to analyse a longitudinal dataset of severe COVID-19 patients.
 
